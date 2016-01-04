@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'HP3577A_mac_gui' target in the 'HP3577A_mac_gui' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+    #import <NI488/ni488.h>
+
+#endif
