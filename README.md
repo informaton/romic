@@ -7,4 +7,4 @@ Macintosh users can download the National Instrument GPIB drivers from http://ww
 
 
 ![Debug mode screenshot](/screenshots/debugMode.png)
-Format: ![Alt Text](url)
+
